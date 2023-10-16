@@ -13,11 +13,13 @@ objetivo del rompecabezas es mover toda la pila a la última varilla, obedeciend
 siguientes reglas:
 
 ● Solo se puede mover un disco a la vez.
+
 ● Cada movimiento consiste en tomar el disco superior de una de las pilas y colocarlo
 en la parte superior de otra pila o en una varilla vacía.
+
 ● No se puede colocar un disco sobre otro disco que sea más pequeño que él.
 
-(image.png)
+![Alt text](data/image.png)
 
 En este ejercicio, se pide que se modele e implemente una solución al problema usando el
 TDA de la pila (LIFO). Se debe programar las clases necesarias para dicha estructura y por

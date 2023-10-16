@@ -1,8 +1,6 @@
 # Torres de hanoi
 ## Usuario: alejandru00
-## Link: 
-
-[Github: https://github.com/alejandru00/torres-de-hanoi.git]
+## Link: [Github: https://github.com/alejandru00/torres-de-hanoi.git]
 ----------------------------------
 ## Ejercicio:
 
@@ -44,13 +42,9 @@ de sus respectivas pilas.
 definido y devuelva la lista de movimientos para la solución óptima (la función puede
 y debe recibir más parámetros). En el proceso se debe además modificar el
 contenido de las pilas.
-
-Los movimientos vienen dados por cadenas de texto con el siguiente formato:
-
-
-“D2 from T1 to T3” -> Disco 2 de la torre 1 a la torre 3
-
-“D5 from T2 to T1” -> Disco 5 de la torre 2 a la torre 1
+  Los movimientos vienen dados por cadenas de texto con el siguiente formato:
+  “D2 from T1 to T3” -> Disco 2 de la torre 1 a la torre 3
+  “D5 from T2 to T1” -> Disco 5 de la torre 2 a la torre 1
 
 5. Por último, llama a la función e imprime la lista de movimientos y el contenido de las
 pilas al final del problema.
